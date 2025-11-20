@@ -1,0 +1,7 @@
+{
+  "name": "BMOCARE",
+  "description": "An interactive educational robot friend for children helping them learn languages and numbers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
