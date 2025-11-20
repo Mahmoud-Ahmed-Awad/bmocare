@@ -468,6 +468,7 @@ export const App: React.FC = () => {
             onReset={handleReset} 
           />
         )}
+      </div>
     </div>
   );
 };
